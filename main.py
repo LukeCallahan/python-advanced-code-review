@@ -10,8 +10,7 @@ for color in range(20):
 print(color_list)
 
 def remove_dups(your_list):
-  new_set = set(your_list)
-  new_fake.new_list = list(new_set)
+  new_fake.new_list = list(set(your_list))
    
 remove_dups(color_list)
 
