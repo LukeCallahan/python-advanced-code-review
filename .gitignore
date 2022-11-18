@@ -3,8 +3,10 @@
 .idea/
 
 #data
-
 .data/
+
+#venv 
+.venv/
 
 # Vagrant
 .vagrant/
