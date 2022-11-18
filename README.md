@@ -34,8 +34,7 @@
 
 ## Future Ideas
 
-* _Looking for inspiration..._
-
+* build out function to catch errors for empty lists and strings
 
 ## License
 
