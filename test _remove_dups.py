@@ -1,4 +1,5 @@
 import pytest
+from main import remove_dups
 
 def remove_dups(your_list):
   new_set = set(your_list)
